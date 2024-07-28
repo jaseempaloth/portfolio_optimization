@@ -27,3 +27,4 @@ pip install -r requirements.txt
 4.	Simulation: Generate random portfolios and calculate their metrics.
 5.	Visualization: Plot the results of the simulations using matplotlib.
 6.	Optimization: Use scipy to find the optimal portfolio weights.
+
